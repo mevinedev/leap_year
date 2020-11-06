@@ -1,2 +1,2 @@
 # leap_year
-A program to determine whether the year given is a leap year or not.
+A program to determine whether the given year is a leap year or not.
